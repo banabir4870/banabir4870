@@ -49,6 +49,7 @@
   <a href="https://www.linkedin.com/in/banabir-barua/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.facebook.com/banabir4870"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
   <a href="mailto:banabir4870@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://wa.me/8801537464870"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/></a>
 </div>
 
 ## 📊 GitHub Stats
